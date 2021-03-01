@@ -1,4 +1,4 @@
-# Aniversity Assignments
+# University Assignments
 
 <ul>
   <li>1st Year
